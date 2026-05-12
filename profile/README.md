@@ -13,4 +13,4 @@ We're a flight simulation network based in China, working to make the FSD ecosys
 ### Coming soon
 
 - **eaip-parser**: Parses China eAIP offline packages into a structured format for use by other services
-- **openafv**: Open source server implementation of AFV protocol
+- **afv-server**: Open source server implementation of AFV protocol
