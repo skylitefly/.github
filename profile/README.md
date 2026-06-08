@@ -19,4 +19,4 @@ We're a flight simulation network based in China, working to make the FSD ecosys
 - Our [portal](https://portal.skylitefly.com)'s frontend and backend
 
 ## Sponsors
-![termius-logo-722-black.png]()
+![termius-logo-362-black.png](termius-logo-362-black.png)
