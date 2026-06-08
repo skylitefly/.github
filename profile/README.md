@@ -12,11 +12,12 @@ We're a flight simulation network based in China, working to make the FSD ecosys
 - [**afv-server**](https://github.com/skylitefly/afv-server): Server implementation of AFV(audio for VATSIM) audio protocol
 - [**slurper-api**](https://github.com/skylitefly/slurper-api): Part of AFV Protocol, provides user's realtime on-network data to controller client, supports standard whazzup.json(or vatsim-data.json) format
 - [**weather-api**](https://github.com/skylitefly/weather-api): METAR/TAF HTTP API based on NOAA and avwx.rest data (our own deployment at https://weather.api.skylitefly.com )
+- [**dev-skills**](https://github.com/skylitefly/dev-skills): Skills to provide LLM Agents a better understanding on FSD and AFV protocol
 
 ### Coming soon
 
 - **eaip-parser**: Parses China eAIP offline packages into a structured format for use by other services
-- Our [portal](https://portal.skylitefly.com)'s frontend and backend
+- Our [user portal](https://portal.skylitefly.com)'s frontend and backend
 
 ## Sponsors
 ![termius-logo-362-black.png](termius-logo-362-black.png)
