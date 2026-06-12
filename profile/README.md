@@ -19,5 +19,3 @@ We're a flight simulation network based in China, working to make the FSD ecosys
 - **eaip-parser**: Parses China eAIP offline packages into a structured format for use by other services
 - Our [user portal](https://portal.skylitefly.com)'s frontend and backend
 
-## Sponsors
-![termius-logo-362-black.png](termius-logo-362-black.png)
