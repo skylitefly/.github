@@ -2,6 +2,8 @@
 
 We're a flight simulation network based in China, working to make the FSD ecosystem more open and accessible, so any network can have the same tooling and features that VATSIM has, and removing VATSIM proprietary lock-in from client softwares.
 
+Most of our works are licensed under `AGPL-3.0` license.
+
 ## Projects
 
 ### Open source
